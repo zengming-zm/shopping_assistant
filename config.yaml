@@ -1,0 +1,36 @@
+llm_router:
+  provider: "litellm"  # or "openrouter"
+  models:
+    planner: "gemini-2.0-flash-exp"
+    rag_answer: "claude-3-5-sonnet-20241022"
+    followups: "gemini-1.5-flash"
+  budgets:
+    per_request_tokens: 8000
+    monthly_usd: 100
+
+reranker: "local_bge"  # or "cohere" or "jina_cloud"
+vector_store: "qdrant"  # or "faiss"
+embeddings_model: "all-MiniLM-L6-v2"
+
+crawler:
+  rate_limit_delay: 1.0
+  max_pages_per_site: 1000
+  respect_robots_txt: true
+  user_agent: "ShopTalk-Bot/1.0"
+  timeout: 30
+
+rag:
+  chunk_size: 1000
+  chunk_overlap: 200
+  top_k: 18
+  rerank_top_n: 8
+
+demo_apis:
+  products: "dummyjson"  # or "fakestore"
+  currency: "exchangerate_host"
+  geo: "ipapi"  # or "ip_api"
+  shipping: "easypost_test"
+
+redis:
+  ttl_retrieval_cache: 3600  # 1 hour
+  ttl_tool_cache: 1800  # 30 minutes

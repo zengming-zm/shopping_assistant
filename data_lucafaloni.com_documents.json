@@ -1,0 +1,3478 @@
+[
+  {
+    "id": "966b9fa6640693f8dc6b90e05e99a1b8",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/brera-pique-polo-shirts",
+    "title": "Brera Piqué Polo Shirts",
+    "section": "product",
+    "text": "Product: Brera Piqué Polo Shirts | Prices: $300 | Available sizes: 30, 9, 10, 4, 13, 2, 1 | Colors: blue, brown, navy, white | Materials: cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:31.333907",
+    "meta": {
+      "product_data": {
+        "id": "966b9fa6640693f8dc6b90e05e99a1b8",
+        "url": "https://lucafaloni.com/en/us/shop/brera-pique-polo-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:31.333907",
+        "product_name": "Brera Piqué Polo Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "9",
+          "10",
+          "4",
+          "13",
+          "2",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "brown",
+            "navy",
+            "white"
+          ],
+          "materials": [
+            "cotton"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "9",
+        "10",
+        "4",
+        "13",
+        "2",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "brown",
+          "navy",
+          "white"
+        ],
+        "materials": [
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "06baeb7bbab0db4c4b2256cbe215706b",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/denim-shirts",
+    "title": "Denim Shirts",
+    "section": "product",
+    "text": "Product: Denim Shirts | Prices: $300 | Available sizes: 30, 6, 13, 2, 8, 5, 4, 9, 10, 1 | Colors: blue, green, black | Materials: denim | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:30.743698",
+    "meta": {
+      "product_data": {
+        "id": "06baeb7bbab0db4c4b2256cbe215706b",
+        "url": "https://lucafaloni.com/en/us/shop/denim-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:30.743698",
+        "product_name": "Denim Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "6",
+          "13",
+          "2",
+          "8",
+          "5",
+          "4",
+          "9",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "black"
+          ],
+          "materials": [
+            "denim"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "6",
+        "13",
+        "2",
+        "8",
+        "5",
+        "4",
+        "9",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "black"
+        ],
+        "materials": [
+          "denim"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "08bff8940c34a3a57a4079db827ace39",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/desert-rose-silk-cashmere-crew-neck",
+    "title": "Crew Neck",
+    "section": "product",
+    "text": "Product: Crew Neck | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 9, 3 | Colors: blue, green, navy | Materials: cashmere, cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:26.001686",
+    "meta": {
+      "product_data": {
+        "id": "08bff8940c34a3a57a4079db827ace39",
+        "url": "https://lucafaloni.com/en/us/shop/desert-rose-silk-cashmere-crew-neck",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:26.001686",
+        "product_name": "Crew Neck",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "9",
+          "3"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "navy"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Desert Rose",
+          "description": "This exceptional crew neck embodies understated luxury and versatility, expertly crafted in Northern Italy from a sumptuous blend of 70% cashmere and 30% silk. Thoughtfully designed with ribbing at the neckline, cuffs, and hem, it features a natural drape that adds structure while allowing for freedom of movement.\r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nAn elegant year-round staple, this knit transitions effortlessly across seasons—from a standalone layer on cool spring-summer evenings to a refined underlayer beneath a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] in autumn-winter. Pair it with our [b][u][url=\"/shop/chinos\" title=\"cotton chinos\"]cotton chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"classic denim\"]classic denim[/url][/u][/b] for both business-casual office attire and relaxed weekend wear.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Crew Necks",
+          "material": "Silk-Cashmere",
+          "name": "Crew Neck",
+          "offers": {
+            "@type": "Offer",
+            "price": 425,
+            "priceCurrency": "USD"
+          },
+          "sku": "CRNEMNSEWS0061",
+          "url": "https://lucafaloni.com}/shop/desert-rose-silk-cashmere-crew-neck"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "9",
+        "3"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "navy"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "98acde3f793038cd6f3995e73997982e",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, brown, pink | Materials: cotton, linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:28.373703",
+    "meta": {
+      "product_data": {
+        "id": "98acde3f793038cd6f3995e73997982e",
+        "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:28.373703",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "brown",
+            "pink"
+          ],
+          "materials": [
+            "cotton",
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Shirts"
+          ],
+          "color": "Chocolate Brown",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0030",
+          "url": "https://lucafaloni.com}/shop/chocolate-brown-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "brown",
+          "pink"
+        ],
+        "materials": [
+          "cotton",
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "8685997979d1f0b6c22baccec3049878",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-brera-pique-polo-shirt",
+    "title": "Brera Polo Shirt",
+    "section": "product",
+    "text": "Product: Brera Polo Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 7, 9, 11, 13 | Colors: blue, white, brown, red | Materials: cotton, suede | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:33.554514",
+    "meta": {
+      "product_data": {
+        "id": "8685997979d1f0b6c22baccec3049878",
+        "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-brera-pique-polo-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:33.554514",
+        "product_name": "Brera Polo Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "7",
+          "9",
+          "11",
+          "13"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "brown",
+            "red"
+          ],
+          "materials": [
+            "cotton",
+            "suede"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Polos"
+          ],
+          "color": "Chocolate Brown",
+          "description": "Our classic Brera polo shirt is crafted in Brescia with resistant, soft and breathable Italian cotton piqué and finished with mother of pearl buttons.\r\n\r\nDesigned with sartorial details from our classic shirts such as our signature “Paramontura” one-piece collar ensuring an elegant and lasting shape. The sleeves are additionally characterised by the typical cuffs of our shirts, adding a touch of sophistication to this casual piece.\r\n\r\nPerfect for every season, this versatile polo shirt can be worn as a single staple piece or layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b], quintessential for both casual or formal occasions. Create a pristine look by pairing it with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"denim jeans\"]denim jeans[/url][/u][/b] or [b][u][url=\"/shop/wool-trousers\" title=\"wool pleated trousers\"]wool pleated trousers[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Brera Piqué Polo Shirts",
+          "material": "Cotton Piqué",
+          "name": "Brera Polo Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "POSHMNCOPQ0030",
+          "url": "https://lucafaloni.com}/shop/chocolate-brown-brera-pique-polo-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "brown",
+          "red"
+        ],
+        "materials": [
+          "cotton",
+          "suede"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "0a5b62489685d8834fbe3c996682fc7e",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-silk-cashmere-polo",
+    "title": "Knitted Polo",
+    "section": "product",
+    "text": "Product: Knitted Polo | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 13, 2 | Colors: blue, green, grey | Materials: cashmere, cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:36.822751",
+    "meta": {
+      "product_data": {
+        "id": "0a5b62489685d8834fbe3c996682fc7e",
+        "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-silk-cashmere-polo",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:36.822751",
+        "product_name": "Knitted Polo",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "13",
+          "2"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "grey"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Charcoal Grey",
+          "description": "Crafted in Bergamo, Northern Italy, from an exquisite blend of 70% cashmere and 30% silk, offering an elegant and modern take on our classic [b][u][url=\"/shop/cashmere-polo-sweaters\" title=\"polo sweater\"]polo sweater[/url][/u][/b]. With its sophisticated design, it features a spread collar adorned with three horn buttons, complemented by ribbed trims at the cuffs and hem for a modern silhouette with a natural drape that effortlessly adapts to your body.\r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nWelcome sophistication for both on and off-duty moments by layering it over our [b][u][url=\"/shop/cotton-shirts\" title=\"cotton shirts\"]cotton shirts[/url][/u][/b] during the colder months or worn solo for a relaxed yet suave mid-season look. Pair it with [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"denim\"]denim[/url][/u][/b] for smart-casual office attire, or style it with our [b][u][url=\"/shop/wool-trousers\" title=\"wool trousers\"]wool trousers[/url][/u][/b] for an understated evening ensemble.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Polos",
+          "material": "Silk-Cashmere",
+          "name": "Knitted Polo",
+          "offers": {
+            "@type": "Offer",
+            "price": 450,
+            "priceCurrency": "USD"
+          },
+          "sku": "POLOMNSEWS0007",
+          "url": "https://lucafaloni.com}/shop/charcoal-grey-silk-cashmere-polo"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "13",
+        "2"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "grey"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "a4436d0bdb089e60f6366bccd53fbc34",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/camel-beige-lightweight-cotton-chinos",
+    "title": "Lightweight Chinos",
+    "section": "product",
+    "text": "Product: Lightweight Chinos | Prices: $300 | Available sizes: S, 30, 28, 32, 34, 36, 38, 40, 97, 3 | Colors: beige, brown, white, grey | Materials: cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:38.149800",
+    "meta": {
+      "product_data": {
+        "id": "a4436d0bdb089e60f6366bccd53fbc34",
+        "url": "https://lucafaloni.com/en/us/shop/camel-beige-lightweight-cotton-chinos",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:38.149800",
+        "product_name": "Lightweight Chinos",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "30",
+          "28",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "97",
+          "3"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "beige",
+            "brown",
+            "white",
+            "grey"
+          ],
+          "materials": [
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Chinos"
+          ],
+          "color": "Camel Beige",
+          "description": "Elevate your spring-summer wardrobe with our cotton chinos, crafted in Northern Italy from lightweight and durable whipcord cotton. This breathable fabric is blended with 3% elastane for added stretch ensuring a more comfortable and easier fit.\r\n\r\nOur chinos feature a mid-rise and slightly tapered fit, designed to provide a refined and sophisticated look. With a focus on practicality, this piece is tailored with four convenient pockets and bespoke details such as a concealed triple button closure, an internal waistband to keep your shirt neatly tucked in and a central fastener to secure your belt in place.\r\n\r\nBuild the foundation of your spring-summer wardrobe with this versatile design that can be dressed up with one of our [b][u][url=\"/shop/best-sellers\" title=\"signature shirts\"]signature shirts[/url][/u][/b] or dressed down with our [b][u][url=\"/shop/polos\" title=\"polo shirts\"]polo shirts[/url][/u][/b] or [b][u][url=\"/shop/t-shirts\" title=\"t-shirts\"]t-shirts[/url][/u][/b] to create a classic or casual look.",
+          "image": [],
+          "inProductGroupWithID": "Lightweight Cotton Chinos",
+          "material": "Cotton (Whipcord)",
+          "name": "Lightweight Chinos",
+          "offers": {
+            "@type": "Offer",
+            "price": 210,
+            "priceCurrency": "USD"
+          },
+          "sku": "TRCHMDCO1001",
+          "url": "https://lucafaloni.com}/shop/camel-beige-lightweight-cotton-chinos"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "30",
+        "28",
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "97",
+        "3"
+      ],
+      "attributes": {
+        "colors": [
+          "beige",
+          "brown",
+          "white",
+          "grey"
+        ],
+        "materials": [
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "01383f6939ca71ba802b04dc531cf8e7",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cotton-shirts",
+    "title": "Cotton Shirts",
+    "section": "product",
+    "text": "Product: Cotton Shirts | Prices: $300 | Available sizes: s, 30, 13, 6, 2, 8, 5, 4, 9, 62 | Colors: blue, green, white | Materials: cotton, denim | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:41.026039",
+    "meta": {
+      "product_data": {
+        "id": "01383f6939ca71ba802b04dc531cf8e7",
+        "url": "https://lucafaloni.com/en/us/shop/cotton-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:41.026039",
+        "product_name": "Cotton Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "s",
+          "30",
+          "13",
+          "6",
+          "2",
+          "8",
+          "5",
+          "4",
+          "9",
+          "62"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "white"
+          ],
+          "materials": [
+            "cotton",
+            "denim"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "s",
+        "30",
+        "13",
+        "6",
+        "2",
+        "8",
+        "5",
+        "4",
+        "9",
+        "62"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "white"
+        ],
+        "materials": [
+          "cotton",
+          "denim"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "a63e87eebcc5c4464816fe849fd72b3e",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/blue-lagoon-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: cotton, linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:44.313728",
+    "meta": {
+      "product_data": {
+        "id": "a63e87eebcc5c4464816fe849fd72b3e",
+        "url": "https://lucafaloni.com/en/us/shop/blue-lagoon-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:44.313728",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "cotton",
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Blue Lagoon",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0104",
+          "url": "https://lucafaloni.com}/shop/blue-lagoon-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "cotton",
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "edfe014102b6dbcd81e064b11220c9a5",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/aquamarine-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: cotton, linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:45.229527",
+    "meta": {
+      "product_data": {
+        "id": "edfe014102b6dbcd81e064b11220c9a5",
+        "url": "https://lucafaloni.com/en/us/shop/aquamarine-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:45.229527",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "cotton",
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Aquamarine",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0056",
+          "url": "https://lucafaloni.com}/shop/aquamarine-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "cotton",
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "21050d5a53d12e2c49add96f49277b9f",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/black-siena-pique-shirt",
+    "title": "Siena Shirt",
+    "section": "product",
+    "text": "Product: Siena Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, green, black, white | Materials: cashmere, cotton, suede | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:48.246817",
+    "meta": {
+      "product_data": {
+        "id": "21050d5a53d12e2c49add96f49277b9f",
+        "url": "https://lucafaloni.com/en/us/shop/black-siena-pique-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:48.246817",
+        "product_name": "Siena Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "black",
+            "white"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "suede"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Shirts"
+          ],
+          "color": "Black",
+          "description": "Our Siena shirt is meticulously crafted in Brescia, Northern Italy, with premium cotton piqué. This textile is characterised by a distinctive diamond texture, which is not only resistant and breathable but effortlessly comfortable, due to the natural stretch typically found in a polo. The shirt’s cutaway collar and mother of pearl buttons add an extra touch of sophistication and refinement. \r\n\r\nThe Siena shirt’s pastel-coloured hues are traditionally achieved through an exclusive garment dye process known as \"tinto capo\" by our skilled artisans, resulting in a subtle light-washed effect that exudes timeless charm.\r\n\r\nThe Siena is an extremely versatile all-year-round design, ideal for both casual and formal occasions, perfect as a single staple piece or elegantly layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b]. Pair with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b], [b][u][url=\"/shop/cotton-shorts\" title=\"cotton shorts\"]cotton shorts[/url][/u][/b] or [b][u][url=\"/shop/cortina-cotton-chinos\" title=\"winter chinos\"]winter chinos[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Siena Piqué Shirts",
+          "material": "Cotton Piqué",
+          "name": "Siena Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPQMDCO0008",
+          "url": "https://lucafaloni.com}/shop/black-siena-pique-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "black",
+          "white"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "suede"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "991ab495fbeb7827d21350576d258e8e",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cashmere-cotton-shirts",
+    "title": "Cashmere-Cotton Shirts",
+    "section": "product",
+    "text": "Product: Cashmere-Cotton Shirts | Prices: $300 | Available sizes: 30, 9, 13, 6, 2, 8, 5, 4, 10, 1 | Colors: blue, navy, white, pink | Materials: cashmere, cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:55.072382",
+    "meta": {
+      "product_data": {
+        "id": "991ab495fbeb7827d21350576d258e8e",
+        "url": "https://lucafaloni.com/en/us/shop/cashmere-cotton-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:55.072382",
+        "product_name": "Cashmere-Cotton Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "9",
+          "13",
+          "6",
+          "2",
+          "8",
+          "5",
+          "4",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "navy",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "9",
+        "13",
+        "6",
+        "2",
+        "8",
+        "5",
+        "4",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "navy",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "33c291b53ec61504d8da71c9f746b2a7",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-siena-pique-shirt",
+    "title": "Siena Shirt",
+    "section": "product",
+    "text": "Product: Siena Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, green, grey | Materials: leather, cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:50.865549",
+    "meta": {
+      "product_data": {
+        "id": "33c291b53ec61504d8da71c9f746b2a7",
+        "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-siena-pique-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:50.865549",
+        "product_name": "Siena Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "green",
+            "grey"
+          ],
+          "materials": [
+            "leather",
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Shirts"
+          ],
+          "color": "Charcoal Grey",
+          "description": "Our Siena shirt is meticulously crafted in Brescia, Northern Italy, with premium cotton piqué. This textile is characterised by a distinctive diamond texture, which is not only resistant and breathable but effortlessly comfortable, due to the natural stretch typically found in a polo. The shirt’s cutaway collar and mother of pearl buttons add an extra touch of sophistication and refinement. \r\n\r\nThe Siena shirt’s pastel-coloured hues are traditionally achieved through an exclusive garment dye process known as \"tinto capo\" by our skilled artisans, resulting in a subtle light-washed effect that exudes timeless charm.\r\n\r\nThe Siena is an extremely versatile all-year-round design, ideal for both casual and formal occasions, perfect as a single staple piece or elegantly layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b]. Pair with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b], [b][u][url=\"/shop/cotton-shorts\" title=\"cotton shorts\"]cotton shorts[/url][/u][/b] or [b][u][url=\"/shop/cortina-cotton-chinos\" title=\"winter chinos\"]winter chinos[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Siena Piqué Shirts",
+          "material": "Cotton Piqué",
+          "name": "Siena Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPQMDCO0007",
+          "url": "https://lucafaloni.com}/shop/charcoal-grey-siena-pique-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "green",
+          "grey"
+        ],
+        "materials": [
+          "leather",
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "1d4e13e6456377be9e31903c0b9864f7",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-silk-cashmere-v-neck",
+    "title": "V Neck",
+    "section": "product",
+    "text": "Product: V Neck | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 8, 2 | Colors: green, navy, brown | Materials: cashmere, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:55.544264",
+    "meta": {
+      "product_data": {
+        "id": "1d4e13e6456377be9e31903c0b9864f7",
+        "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-silk-cashmere-v-neck",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:55.544264",
+        "product_name": "V Neck",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "8",
+          "2"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "green",
+            "navy",
+            "brown"
+          ],
+          "materials": [
+            "cashmere",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Chocolate Brown",
+          "description": "Our finest V neck is meticulously knitted in Northern Italy from a luxurious blend of 70% cashmere and 30% silk, resulting in superior comfort. Designed to provide a tactile experience all year round, with ribbed details at the neckline, cuffs and hem to enhance the structure while ensuring a tailored yet relaxed fit with a natural drape for ease of movement. \r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nA perfect companion to our [b][u][url=\"/shop/cotton-shirts\" title=\"cotton shirts\"]cotton shirts[/url][/u][/b], it can be layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] for a business-casual ensemble in autumn-winter or worn solo through spring-summer evenings for understated elegance. Perfectly paired with our staple [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b], it delivers effortless style for any occasion–from weekend escapes to sophisticated evening gatherings.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere V Necks",
+          "material": "Silk-Cashmere",
+          "name": "V Neck",
+          "offers": {
+            "@type": "Offer",
+            "price": 425,
+            "priceCurrency": "USD"
+          },
+          "sku": "VNEKMNSEWS0030",
+          "url": "https://lucafaloni.com}/shop/chocolate-brown-silk-cashmere-v-neck"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "8",
+        "2"
+      ],
+      "attributes": {
+        "colors": [
+          "green",
+          "navy",
+          "brown"
+        ],
+        "materials": [
+          "cashmere",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "fbfd7aa905b144f608dc552b0765354f",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cashmere-polo-sweaters",
+    "title": "Cashmere Polo Sweaters",
+    "section": "product",
+    "text": "Product: Cashmere Polo Sweaters | Prices: $300 | Available sizes: s, 30, 10, 2, 9, 4, 13, 1 | Colors: beige, red, blue, grey | Materials: cashmere | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:59.311927",
+    "meta": {
+      "product_data": {
+        "id": "fbfd7aa905b144f608dc552b0765354f",
+        "url": "https://lucafaloni.com/en/us/shop/cashmere-polo-sweaters",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:59.311927",
+        "product_name": "Cashmere Polo Sweaters",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "s",
+          "30",
+          "10",
+          "2",
+          "9",
+          "4",
+          "13",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "beige",
+            "red",
+            "blue",
+            "grey"
+          ],
+          "materials": [
+            "cashmere"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "s",
+        "30",
+        "10",
+        "2",
+        "9",
+        "4",
+        "13",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "beige",
+          "red",
+          "blue",
+          "grey"
+        ],
+        "materials": [
+          "cashmere"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "a5796af5b71d39d3989d387de355b147",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/forest-green-brera-pique-polo-shirt",
+    "title": "Brera Polo Shirt",
+    "section": "product",
+    "text": "Product: Brera Polo Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 9, 11, 7, 13 | Colors: blue, red, green, white | Materials: cashmere, cotton, suede | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:16:59.717622",
+    "meta": {
+      "product_data": {
+        "id": "a5796af5b71d39d3989d387de355b147",
+        "url": "https://lucafaloni.com/en/us/shop/forest-green-brera-pique-polo-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:16:59.717622",
+        "product_name": "Brera Polo Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "9",
+          "11",
+          "7",
+          "13"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "red",
+            "green",
+            "white"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "suede"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Polos"
+          ],
+          "color": "Forest Green",
+          "description": "Our classic Brera polo shirt is crafted in Brescia with resistant, soft and breathable Italian cotton piqué and finished with mother of pearl buttons.\r\n\r\nDesigned with sartorial details from our classic shirts such as our signature “Paramontura” one-piece collar ensuring an elegant and lasting shape. The sleeves are additionally characterised by the typical cuffs of our shirts, adding a touch of sophistication to this casual piece.\r\n\r\nPerfect for every season, this versatile polo shirt can be worn as a single staple piece or layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b], quintessential for both casual or formal occasions. Create a pristine look by pairing it with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"denim jeans\"]denim jeans[/url][/u][/b] or [b][u][url=\"/shop/wool-trousers\" title=\"wool pleated trousers\"]wool pleated trousers[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Brera Piqué Polo Shirts",
+          "material": "Cotton Piqué",
+          "name": "Brera Polo Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "POSHMNCOPQ0005",
+          "url": "https://lucafaloni.com}/shop/forest-green-brera-pique-polo-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "9",
+        "11",
+        "7",
+        "13"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "red",
+          "green",
+          "white"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "suede"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "ea3097eb2b724edcc73cd5a84552e8e0",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/brushed-cotton-shirts",
+    "title": "Brushed Cotton Shirts",
+    "section": "product",
+    "text": "Product: Brushed Cotton Shirts | Prices: $300 | Available sizes: 30, 13, 6, 2, 8, 5, 4, 9, 10, 1 | Colors: blue, brown, green, white | Materials: cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:02.305541",
+    "meta": {
+      "product_data": {
+        "id": "ea3097eb2b724edcc73cd5a84552e8e0",
+        "url": "https://lucafaloni.com/en/us/shop/brushed-cotton-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:02.305541",
+        "product_name": "Brushed Cotton Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "13",
+          "6",
+          "2",
+          "8",
+          "5",
+          "4",
+          "9",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "brown",
+            "green",
+            "white"
+          ],
+          "materials": [
+            "cotton"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "13",
+        "6",
+        "2",
+        "8",
+        "5",
+        "4",
+        "9",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "brown",
+          "green",
+          "white"
+        ],
+        "materials": [
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "70c8750d32880e36c8c4ad153ba73382",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/capri-blue-silk-cashmere-crew-neck",
+    "title": "Crew Neck",
+    "section": "product",
+    "text": "Product: Crew Neck | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 9, 6 | Colors: blue, navy | Materials: cashmere, cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:01.785135",
+    "meta": {
+      "product_data": {
+        "id": "70c8750d32880e36c8c4ad153ba73382",
+        "url": "https://lucafaloni.com/en/us/shop/capri-blue-silk-cashmere-crew-neck",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:01.785135",
+        "product_name": "Crew Neck",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "9",
+          "6"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "navy"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Capri Blue",
+          "description": "This exceptional crew neck embodies understated luxury and versatility, expertly crafted in Northern Italy from a sumptuous blend of 70% cashmere and 30% silk. Thoughtfully designed with ribbing at the neckline, cuffs, and hem, it features a natural drape that adds structure while allowing for freedom of movement.\r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nAn elegant year-round staple, this knit transitions effortlessly across seasons—from a standalone layer on cool spring-summer evenings to a refined underlayer beneath a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] in autumn-winter. Pair it with our [b][u][url=\"/shop/chinos\" title=\"cotton chinos\"]cotton chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"classic denim\"]classic denim[/url][/u][/b] for both business-casual office attire and relaxed weekend wear.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Crew Necks",
+          "material": "Silk-Cashmere",
+          "name": "Crew Neck",
+          "offers": {
+            "@type": "Offer",
+            "price": 425,
+            "priceCurrency": "USD"
+          },
+          "sku": "CRNEMNSEWS0020",
+          "url": "https://lucafaloni.com}/shop/capri-blue-silk-cashmere-crew-neck"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "9",
+        "6"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "navy"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "a0551baa9011b8d12a1c0cabfc107a45",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-hoodie",
+    "title": "Hoodie",
+    "section": "product",
+    "text": "Product: Hoodie | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 4, 2 | Colors: blue, white, black, navy | Materials: cashmere, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:07.045155",
+    "meta": {
+      "product_data": {
+        "id": "a0551baa9011b8d12a1c0cabfc107a45",
+        "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-hoodie",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:07.045155",
+        "product_name": "Hoodie",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "4",
+          "2"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "black",
+            "navy"
+          ],
+          "materials": [
+            "cashmere",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Hoodies"
+          ],
+          "color": "Black",
+          "description": "Effortlessly uniting luxury with modern ease, our hoodie is expertly crafted in Bergamo, Northern Italy, from a sumptuous blend of 70% cashmere and 30% silk. Designed with a streamlined silhouette, it features a natural drape that gently conforms to your shape, while ribbed trims at the cuffs and hem provide a tailored finish. Its pullover design strikes the perfect balance between elegance with versatility, transitioning seamlessly from casual outings to refined lounging.\r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nWhether layered over a [b][u][url=\"/shop/t-shirts\" title=\"T-shirt\"]T-shirt[/url][/u][/b] for weekend escapes or paired with a [b][u][url=\"/shop/cotton-shirts\" title=\"classic shirt\"]classic shirt[/url][/u][/b] for elevated casual ensembles, this hoodie adapts effortlessly to your lifestyle. For a contemporary approach to smart-casual dressing, style it under our [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] or [b][u][url=\"/shop/leather-jackets\" title=\"leather jacket\"]leather jacket[/url][/u][/b]. Complete the look with [b][u][url=\"/shop/wool-trousers\" title=\"wool trousers\"]wool trousers[/url][/u][/b], [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or our [b][u][url=\"/shop/cashmere-joggers\" title=\"cashmere joggers\"]cashmere joggers[/url][/u][/b] for relaxed loungewear.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Hoodies",
+          "material": "Silk-Cashmere",
+          "name": "Hoodie",
+          "offers": {
+            "@type": "Offer",
+            "price": 475,
+            "priceCurrency": "USD"
+          },
+          "sku": "HOODMNSEWS0008",
+          "url": "https://lucafaloni.com}/shop/black-silk-cashmere-hoodie"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "4",
+        "2"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "black",
+          "navy"
+        ],
+        "materials": [
+          "cashmere",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "4532f45588c8284d008999b330471a7e",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/amalfi-silk-cotton-polo-shirts",
+    "title": "Amalfi Silk-Cotton Polo Shirts",
+    "section": "product",
+    "text": "Product: Amalfi Silk-Cotton Polo Shirts | Prices: $300 | Available sizes: 30, 10, 9, 4, 13, 2, 1 | Colors: blue, green, brown | Materials: cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:06.831353",
+    "meta": {
+      "product_data": {
+        "id": "4532f45588c8284d008999b330471a7e",
+        "url": "https://lucafaloni.com/en/us/shop/amalfi-silk-cotton-polo-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:06.831353",
+        "product_name": "Amalfi Silk-Cotton Polo Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "10",
+          "9",
+          "4",
+          "13",
+          "2",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "brown"
+          ],
+          "materials": [
+            "cotton",
+            "silk"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "10",
+        "9",
+        "4",
+        "13",
+        "2",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "brown"
+        ],
+        "materials": [
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "10bcfcfddd473c1213f910b6841d2638",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cream-knitted-cotton-polo",
+    "title": "Knitted Polo",
+    "section": "product",
+    "text": "Product: Knitted Polo | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 18, 7, 11, 9 | Colors: blue, brown, green, navy | Materials: cotton, linen, wool | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:09.476850",
+    "meta": {
+      "product_data": {
+        "id": "10bcfcfddd473c1213f910b6841d2638",
+        "url": "https://lucafaloni.com/en/us/shop/cream-knitted-cotton-polo",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:09.476850",
+        "product_name": "Knitted Polo",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "18",
+          "7",
+          "11",
+          "9"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "brown",
+            "green",
+            "navy"
+          ],
+          "materials": [
+            "cotton",
+            "linen",
+            "wool"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Polos"
+          ],
+          "color": "Cream",
+          "description": "Details\r\nOur knitted short-sleeved polo is crafted in Bergamo, in Northern Itay, from the finest organic cotton. This luxurious piece features a refined rib-knit collar adorned with three mother of pearl buttons to match the colour of the polo for a sophisticated tone-on-tone appeal. This prestigious yarn guarantees zero pilling, maintaining its pristine look and soft texture. Knitted with gauge 18 to provide an ultra-light handle, this fitted but comfortable design naturally drapes around your body shape. Finished with a straight hemline to bring this polo together giving it a sleek silhouette.\r\n\r\nUse\r\nThis exceptionally refreshing polo adds a relaxed touch of sophistication to your summer attire, making it the perfect choice for those particularly balmy days. Bridge your day-to-evening smart-casual looks seamlessly by pairing with lightweight wool trousers or chinos.",
+          "image": [],
+          "inProductGroupWithID": "Knitted Cotton Polos",
+          "material": "Cotton (Knitted)",
+          "name": "Knitted Polo",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "KNIPOMNCO0084",
+          "url": "https://lucafaloni.com}/shop/cream-knitted-cotton-polo"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "18",
+        "7",
+        "11",
+        "9"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "brown",
+          "green",
+          "navy"
+        ],
+        "materials": [
+          "cotton",
+          "linen",
+          "wool"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "7fb6060ba896653403927f7b676dde5c",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/black-lightweight-cotton-chinos",
+    "title": "Lightweight Chinos",
+    "section": "product",
+    "text": "Product: Lightweight Chinos | Prices: $300 | Available sizes: S, 30, 28, 32, 34, 36, 38, 40, 97, 3 | Colors: beige, black, white, grey, brown | Materials: leather, cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:08.521972",
+    "meta": {
+      "product_data": {
+        "id": "7fb6060ba896653403927f7b676dde5c",
+        "url": "https://lucafaloni.com/en/us/shop/black-lightweight-cotton-chinos",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:08.521972",
+        "product_name": "Lightweight Chinos",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "30",
+          "28",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "97",
+          "3"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "beige",
+            "black",
+            "white",
+            "grey",
+            "brown"
+          ],
+          "materials": [
+            "leather",
+            "cotton"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Chinos"
+          ],
+          "color": "Black",
+          "description": "Elevate your spring-summer wardrobe with our cotton chinos, crafted in Northern Italy from lightweight and durable whipcord cotton. This breathable fabric is blended with 3% elastane for added stretch ensuring a more comfortable and easier fit.\r\n\r\nOur chinos feature a mid-rise and slightly tapered fit, designed to provide a refined and sophisticated look. With a focus on practicality, this piece is tailored with four convenient pockets and bespoke details such as a concealed triple button closure, an internal waistband to keep your shirt neatly tucked in and a central fastener to secure your belt in place.\r\n\r\nBuild the foundation of your spring-summer wardrobe with this versatile design that can be dressed up with one of our [b][u][url=\"/shop/best-sellers\" title=\"signature shirts\"]signature shirts[/url][/u][/b] or dressed down with our [b][u][url=\"/shop/polos\" title=\"polo shirts\"]polo shirts[/url][/u][/b] or [b][u][url=\"/shop/t-shirts\" title=\"t-shirts\"]t-shirts[/url][/u][/b] to create a classic or casual look.",
+          "image": [],
+          "inProductGroupWithID": "Lightweight Cotton Chinos",
+          "material": "Cotton (Whipcord)",
+          "name": "Lightweight Chinos",
+          "offers": {
+            "@type": "Offer",
+            "price": 210,
+            "priceCurrency": "USD"
+          },
+          "sku": "TRCHMDCO1008",
+          "url": "https://lucafaloni.com}/shop/black-lightweight-cotton-chinos"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "30",
+        "28",
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "97",
+        "3"
+      ],
+      "attributes": {
+        "colors": [
+          "beige",
+          "black",
+          "white",
+          "grey",
+          "brown"
+        ],
+        "materials": [
+          "leather",
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "f2dabb5b204549e76b04e7e29c57ecb6",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/dark-blue-jeans",
+    "title": "Jeans",
+    "section": "product",
+    "text": "Product: Jeans | Prices: $300 | Available sizes: S, 30, 28, 32, 34, 36, 38, 40, 4, 9 | Colors: blue, white, grey | Materials: leather, cotton, denim | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:13.299034",
+    "meta": {
+      "product_data": {
+        "id": "f2dabb5b204549e76b04e7e29c57ecb6",
+        "url": "https://lucafaloni.com/en/us/shop/dark-blue-jeans",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:13.299034",
+        "product_name": "Jeans",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "30",
+          "28",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "4",
+          "9"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "grey"
+          ],
+          "materials": [
+            "leather",
+            "cotton",
+            "denim"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Cotton"
+          ],
+          "color": "Dark Blue",
+          "description": "Meticulously crafted by experienced artisans in Lago d’Iseo from a premium mid-weight pure denim cotton, featuring natural stretch for easy comfort, our elegant jeans are designed to provide durability and long-lasting character. This resilient denim cloth is produced in the province of Padua in a mill that’s been creating high-quality textiles since 1887.\r\n\r\nOur jeans are exceptionally comfortable, featuring a mid-rise and slightly tapered profile that effortlessly complements both casual and refined outfits. Free from metal rivets and leather patches, they offer a sleek, streamlined look without the discomfort of traditional details. Available in light-aged and dark-aged washes, these jeans boast a subtle worn-in finish for versatile year-round wear.\r\n\r\nPair them with our [b][u][url=\"/shop/polos\" title=\"classic polos\"]classic polos[/url][/u][/b] and [b][u][url=\"/shop/cotton-shirts\" title=\"cotton shirts\"]cotton shirts[/url][/u][/b] to complete a smart-casual look from spring to summer. For an elevated touch during the colder months of the year, style them with our pure [b][u][url=\"/shop/cashmere\" title=\"cashmere knitwear\"]cashmere knitwear[/url][/u][/b]. ",
+          "image": [],
+          "inProductGroupWithID": "Classic Jeans",
+          "material": "Denim",
+          "name": "Jeans",
+          "offers": {
+            "@type": "Offer",
+            "price": 195,
+            "priceCurrency": "USD"
+          },
+          "sku": "TRJEMNCO0021",
+          "url": "https://lucafaloni.com}/shop/dark-blue-jeans"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "30",
+        "28",
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "4",
+        "9"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "grey"
+        ],
+        "materials": [
+          "leather",
+          "cotton",
+          "denim"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "7e21ef95eac8ceb40c09124a68b612c1",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/burgundy-siena-pique-shirt",
+    "title": "Siena Shirt",
+    "section": "product",
+    "text": "Product: Siena Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, green, white | Materials: cashmere, cotton, suede | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:14.550281",
+    "meta": {
+      "product_data": {
+        "id": "7e21ef95eac8ceb40c09124a68b612c1",
+        "url": "https://lucafaloni.com/en/us/shop/burgundy-siena-pique-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:14.550281",
+        "product_name": "Siena Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "white"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "suede"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Shirts"
+          ],
+          "color": "Burgundy",
+          "description": "Our Siena shirt is meticulously crafted in Brescia, Northern Italy, with premium cotton piqué. This textile is characterised by a distinctive diamond texture, which is not only resistant and breathable but effortlessly comfortable, due to the natural stretch typically found in a polo. The shirt’s cutaway collar and mother of pearl buttons add an extra touch of sophistication and refinement. \r\n\r\nThe Siena shirt’s pastel-coloured hues are traditionally achieved through an exclusive garment dye process known as \"tinto capo\" by our skilled artisans, resulting in a subtle light-washed effect that exudes timeless charm.\r\n\r\nThe Siena is an extremely versatile all-year-round design, ideal for both casual and formal occasions, perfect as a single staple piece or elegantly layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b]. Pair with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b], [b][u][url=\"/shop/cotton-shorts\" title=\"cotton shorts\"]cotton shorts[/url][/u][/b] or [b][u][url=\"/shop/cortina-cotton-chinos\" title=\"winter chinos\"]winter chinos[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Siena Piqué Shirts",
+          "material": "Cotton Piqué",
+          "name": "Siena Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPQMDCO0059",
+          "url": "https://lucafaloni.com}/shop/burgundy-siena-pique-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "white"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "suede"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "9438920cb445886e5f815c3aede4b127",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-polo",
+    "title": "Knitted Polo",
+    "section": "product",
+    "text": "Product: Knitted Polo | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 9, 6 | Colors: blue, green, black, grey | Materials: cashmere, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:16.169953",
+    "meta": {
+      "product_data": {
+        "id": "9438920cb445886e5f815c3aede4b127",
+        "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-polo",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:16.169953",
+        "product_name": "Knitted Polo",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "9",
+          "6"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "green",
+            "black",
+            "grey"
+          ],
+          "materials": [
+            "cashmere",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Black",
+          "description": "Crafted in Bergamo, Northern Italy, from an exquisite blend of 70% cashmere and 30% silk, offering an elegant and modern take on our classic [b][u][url=\"/shop/cashmere-polo-sweaters\" title=\"polo sweater\"]polo sweater[/url][/u][/b]. With its sophisticated design, it features a spread collar adorned with three horn buttons, complemented by ribbed trims at the cuffs and hem for a modern silhouette with a natural drape that effortlessly adapts to your body.\r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nWelcome sophistication for both on and off-duty moments by layering it over our [b][u][url=\"/shop/cotton-shirts\" title=\"cotton shirts\"]cotton shirts[/url][/u][/b] during the colder months or worn solo for a relaxed yet suave mid-season look. Pair it with [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"denim\"]denim[/url][/u][/b] for smart-casual office attire, or style it with our [b][u][url=\"/shop/wool-trousers\" title=\"wool trousers\"]wool trousers[/url][/u][/b] for an understated evening ensemble.",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Polos",
+          "material": "Silk-Cashmere",
+          "name": "Knitted Polo",
+          "offers": {
+            "@type": "Offer",
+            "price": 450,
+            "priceCurrency": "USD"
+          },
+          "sku": "POLOMNSEWS0008",
+          "url": "https://lucafaloni.com}/shop/black-silk-cashmere-polo"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "9",
+        "6"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "green",
+          "black",
+          "grey"
+        ],
+        "materials": [
+          "cashmere",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "ad21f51070bacf67a3ddc6d3b9ad0ec1",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-silk-cashmere-zip-up",
+    "title": "Zip-up",
+    "section": "product",
+    "text": "Product: Zip-up | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 8, 2 | Colors: brown, green, navy, grey | Materials: cashmere, silk, suede | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:16.558046",
+    "meta": {
+      "product_data": {
+        "id": "ad21f51070bacf67a3ddc6d3b9ad0ec1",
+        "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-silk-cashmere-zip-up",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:16.558046",
+        "product_name": "Zip-up",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "8",
+          "2"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "brown",
+            "green",
+            "navy",
+            "grey"
+          ],
+          "materials": [
+            "cashmere",
+            "silk",
+            "suede"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Charcoal Grey",
+          "description": "An elevated essential, our finest quarter zip is expertly crafted in Bergamo, Northern Italy from a luxurious blend of 70% cashmere and 30% silk. With a classic design, it’s adorned with a premium Lanfranchi zipper and features ribbing on the funnel collar, cuffs and hem for a fitted yet modern silhouette. \r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nWhether layered over our [b][u][url=\"/shop/cotton-shirts\" title=\"classic shirts\"]classic shirts[/url][/u][/b] for a sleek office ensemble or styled with [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b] for an effortlessly refined weekend look, this piece unites sophistication and unparalleled comfort. Perfect for year-round wear, it offers versatility as a standalone staple over a [b][u][url=\"/shop/t-shirts\" title=\"T-shirt\"]T-shirt[/url][/u][/b] on cooler evenings or layers under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] through the colder season. ",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Zip-ups",
+          "material": "Silk-Cashmere",
+          "name": "Zip-up",
+          "offers": {
+            "@type": "Offer",
+            "price": 475,
+            "priceCurrency": "USD"
+          },
+          "sku": "ZPUPMNSEWS0007",
+          "url": "https://lucafaloni.com}/shop/charcoal-grey-silk-cashmere-zip-up"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "8",
+        "2"
+      ],
+      "attributes": {
+        "colors": [
+          "brown",
+          "green",
+          "navy",
+          "grey"
+        ],
+        "materials": [
+          "cashmere",
+          "silk",
+          "suede"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "22f4d82f2f18f87172af37543d363536",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/burgundy-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:33.229554",
+    "meta": {
+      "product_data": {
+        "id": "22f4d82f2f18f87172af37543d363536",
+        "url": "https://lucafaloni.com/en/us/shop/burgundy-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:33.229554",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Burgundy",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0059",
+          "url": "https://lucafaloni.com}/shop/burgundy-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "5eea29c6c5cbf54afdcee64398bad0a0",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cream-lightweight-cotton-chinos",
+    "title": "Lightweight Chinos",
+    "section": "product",
+    "text": "Product: Lightweight Chinos | Prices: $300 | Available sizes: S, 30, 28, 32, 34, 36, 38, 40, 97, 3 | Colors: beige, olive, white, grey, brown | Materials: cotton, linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:23.837150",
+    "meta": {
+      "product_data": {
+        "id": "5eea29c6c5cbf54afdcee64398bad0a0",
+        "url": "https://lucafaloni.com/en/us/shop/cream-lightweight-cotton-chinos",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:23.837150",
+        "product_name": "Lightweight Chinos",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "30",
+          "28",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "97",
+          "3"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "beige",
+            "olive",
+            "white",
+            "grey",
+            "brown"
+          ],
+          "materials": [
+            "cotton",
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "All Bottoms"
+          ],
+          "color": "Cream",
+          "description": "Elevate your spring-summer wardrobe with our cotton chinos, crafted in Northern Italy from lightweight and durable whipcord cotton. This breathable fabric is blended with 3% elastane for added stretch ensuring a more comfortable and easier fit.\r\n\r\nOur chinos feature a mid-rise and slightly tapered fit, designed to provide a refined and sophisticated look. With a focus on practicality, this piece is tailored with four convenient pockets and bespoke details such as a concealed triple button closure, an internal waistband to keep your shirt neatly tucked in and a central fastener to secure your belt in place.\r\n\r\nBuild the foundation of your spring-summer wardrobe with this versatile design that can be dressed up with one of our [b][u][url=\"/shop/best-sellers\" title=\"signature shirts\"]signature shirts[/url][/u][/b] or dressed down with our [b][u][url=\"/shop/polos\" title=\"polo shirts\"]polo shirts[/url][/u][/b] or [b][u][url=\"/shop/t-shirts\" title=\"t-shirts\"]t-shirts[/url][/u][/b] to create a classic or casual look.",
+          "image": [],
+          "inProductGroupWithID": "Lightweight Cotton Chinos",
+          "material": "Cotton (Whipcord)",
+          "name": "Lightweight Chinos",
+          "offers": {
+            "@type": "Offer",
+            "price": 210,
+            "priceCurrency": "USD"
+          },
+          "sku": "TRCHMDCO1084",
+          "url": "https://lucafaloni.com}/shop/cream-lightweight-cotton-chinos"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "30",
+        "28",
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "97",
+        "3"
+      ],
+      "attributes": {
+        "colors": [
+          "beige",
+          "olive",
+          "white",
+          "grey",
+          "brown"
+        ],
+        "materials": [
+          "cotton",
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "b791ae50b07a225e3511578413fcdaf6",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/cortina-cotton-chinos",
+    "title": "Cortina Cotton Chinos",
+    "section": "product",
+    "text": "Product: Cortina Cotton Chinos | Prices: $300 | Available sizes: 30, 9, 11, 10, 1 | Colors: beige, green, blue, grey, navy | Materials: cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:25.299357",
+    "meta": {
+      "product_data": {
+        "id": "b791ae50b07a225e3511578413fcdaf6",
+        "url": "https://lucafaloni.com/en/us/shop/cortina-cotton-chinos",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:25.299357",
+        "product_name": "Cortina Cotton Chinos",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "9",
+          "11",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "beige",
+            "green",
+            "blue",
+            "grey",
+            "navy"
+          ],
+          "materials": [
+            "cotton"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "9",
+        "11",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "beige",
+          "green",
+          "blue",
+          "grey",
+          "navy"
+        ],
+        "materials": [
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "aecb094dc344b4aac3f350edf6e4ec02",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/capri-blue-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:28.719053",
+    "meta": {
+      "product_data": {
+        "id": "aecb094dc344b4aac3f350edf6e4ec02",
+        "url": "https://lucafaloni.com/en/us/shop/capri-blue-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:28.719053",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Capri Blue",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0020",
+          "url": "https://lucafaloni.com}/shop/capri-blue-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "703093c3c608028f236290bff2aa3a0b",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-siena-pique-shirt",
+    "title": "Siena Shirt",
+    "section": "product",
+    "text": "Product: Siena Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, green, brown | Materials: cotton, linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:33.659040",
+    "meta": {
+      "product_data": {
+        "id": "703093c3c608028f236290bff2aa3a0b",
+        "url": "https://lucafaloni.com/en/us/shop/chocolate-brown-siena-pique-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:33.659040",
+        "product_name": "Siena Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "green",
+            "brown"
+          ],
+          "materials": [
+            "cotton",
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Shirts"
+          ],
+          "color": "Chocolate Brown",
+          "description": "Our Siena shirt is meticulously crafted in Brescia, Northern Italy, with premium cotton piqué. This textile is characterised by a distinctive diamond texture, which is not only resistant and breathable but effortlessly comfortable, due to the natural stretch typically found in a polo. The shirt’s cutaway collar and mother of pearl buttons add an extra touch of sophistication and refinement. \r\n\r\nThe Siena shirt’s pastel-coloured hues are traditionally achieved through an exclusive garment dye process known as \"tinto capo\" by our skilled artisans, resulting in a subtle light-washed effect that exudes timeless charm.\r\n\r\nThe Siena is an extremely versatile all-year-round design, ideal for both casual and formal occasions, perfect as a single staple piece or elegantly layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b]. Pair with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b], [b][u][url=\"/shop/cotton-shorts\" title=\"cotton shorts\"]cotton shorts[/url][/u][/b] or [b][u][url=\"/shop/cortina-cotton-chinos\" title=\"winter chinos\"]winter chinos[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Siena Piqué Shirts",
+          "material": "Cotton Piqué",
+          "name": "Siena Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPQMDCO0030",
+          "url": "https://lucafaloni.com}/shop/chocolate-brown-siena-pique-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "green",
+          "brown"
+        ],
+        "materials": [
+          "cotton",
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "cdcb062c385f029d67d09752c33f5830",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/coral-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:36.071448",
+    "meta": {
+      "product_data": {
+        "id": "cdcb062c385f029d67d09752c33f5830",
+        "url": "https://lucafaloni.com/en/us/shop/coral-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:36.071448",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Coral",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0080",
+          "url": "https://lucafaloni.com}/shop/coral-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "8a8449449949605cb7e18773716d0a84",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-brera-pique-polo-shirt",
+    "title": "Brera Polo Shirt",
+    "section": "product",
+    "text": "Product: Brera Polo Shirt | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 3, 2, 9, 11 | Colors: blue, white, grey, red | Materials: leather, cashmere, cotton | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:47.088649",
+    "meta": {
+      "product_data": {
+        "id": "8a8449449949605cb7e18773716d0a84",
+        "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-brera-pique-polo-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:47.088649",
+        "product_name": "Brera Polo Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "3",
+          "2",
+          "9",
+          "11"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "grey",
+            "red"
+          ],
+          "materials": [
+            "leather",
+            "cashmere",
+            "cotton"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Polos"
+          ],
+          "color": "Charcoal Grey",
+          "description": "Our classic Brera polo shirt is crafted in Brescia with resistant, soft and breathable Italian cotton piqué and finished with mother of pearl buttons.\r\n\r\nDesigned with sartorial details from our classic shirts such as our signature “Paramontura” one-piece collar ensuring an elegant and lasting shape. The sleeves are additionally characterised by the typical cuffs of our shirts, adding a touch of sophistication to this casual piece.\r\n\r\nPerfect for every season, this versatile polo shirt can be worn as a single staple piece or layered under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b], quintessential for both casual or formal occasions. Create a pristine look by pairing it with our [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight cotton chinos\"]lightweight cotton chinos[/url][/u][/b], [b][u][url=\"/shop/jeans\" title=\"denim jeans\"]denim jeans[/url][/u][/b] or [b][u][url=\"/shop/wool-trousers\" title=\"wool pleated trousers\"]wool pleated trousers[/url][/u][/b].",
+          "image": [],
+          "inProductGroupWithID": "Brera Piqué Polo Shirts",
+          "material": "Cotton Piqué",
+          "name": "Brera Polo Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 225,
+            "priceCurrency": "USD"
+          },
+          "sku": "POSHMNCOPQ0007",
+          "url": "https://lucafaloni.com}/shop/charcoal-grey-brera-pique-polo-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "3",
+        "2",
+        "9",
+        "11"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "grey",
+          "red"
+        ],
+        "materials": [
+          "leather",
+          "cashmere",
+          "cotton"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "6be76e8918a518a485f14c9218a6be73",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/como-silk-cotton-shirts",
+    "title": "Como Silk-Cotton Shirts",
+    "section": "product",
+    "text": "Product: Como Silk-Cotton Shirts | Prices: $300 | Available sizes: 30, 8, 13, 6, 2, 5, 4, 9, 10, 1 | Colors: blue, white, black, grey | Materials: cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:51.231988",
+    "meta": {
+      "product_data": {
+        "id": "6be76e8918a518a485f14c9218a6be73",
+        "url": "https://lucafaloni.com/en/us/shop/como-silk-cotton-shirts",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:51.231988",
+        "product_name": "Como Silk-Cotton Shirts",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "8",
+          "13",
+          "6",
+          "2",
+          "5",
+          "4",
+          "9",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "black",
+            "grey"
+          ],
+          "materials": [
+            "cotton",
+            "silk"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "8",
+        "13",
+        "6",
+        "2",
+        "5",
+        "4",
+        "9",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "black",
+          "grey"
+        ],
+        "materials": [
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "186df5542b2cee4aacaac74b6bc472bd",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/blue-melange-portofino-linen-shirt",
+    "title": "Portofino Shirt",
+    "section": "product",
+    "text": "Product: Portofino Shirt | Prices: $300 | Available sizes: S, XS, M, L, XL, 30, 15, 5, 75, 16 | Colors: blue, white, pink | Materials: linen | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:52.928907",
+    "meta": {
+      "product_data": {
+        "id": "186df5542b2cee4aacaac74b6bc472bd",
+        "url": "https://lucafaloni.com/en/us/shop/blue-melange-portofino-linen-shirt",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:52.928907",
+        "product_name": "Portofino Shirt",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "S",
+          "XS",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "15",
+          "5",
+          "75",
+          "16"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "white",
+            "pink"
+          ],
+          "materials": [
+            "linen"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Linen"
+          ],
+          "color": "Blue Melange",
+          "description": "Indulge in the epitome of timeless summer luxury with the Portofino, our signature linen shirt. Featuring our iconic “Paramontura” one-piece collar to create a clean design and lasting shape for an elegant appeal. Meticulously crafted in Bergamo and Brescia, in Northern Italy, by skilled artisans using the finest Italian linen and Australian mother of pearl buttons, finished with rare sartorial details such as the “giglio” stitching. \r\n\r\nAvailable in slim and regular fit options, to provide a tailored and refined silhouette. \r\n\r\nWith a versatile yet sophisticated approach to smart-casual dressing, this classic linen shirt is perfect for leisurely holidays and city escapades making it the quintessential summer wardrobe staple. Match with our [b][u][url=\"/shop/linen-trousers\" title=\"linen trousers\"]linen trousers[/url][/u][/b], [b][u][url=\"/shop/bermuda-linen-shorts\" title=\"Bermuda linen shorts\"]Bermuda linen shorts[/url][/u][/b] or [b][u][url=\"/shop/lightweight-cotton-chinos\" title=\"lightweight chinos\"]lightweight chinos[/url][/u][/b] to effortlessly bridge your day-to-evening looks.",
+          "image": [],
+          "inProductGroupWithID": "Portofino Linen Shirts",
+          "material": "Linen",
+          "name": "Portofino Shirt",
+          "offers": {
+            "@type": "Offer",
+            "price": 260,
+            "priceCurrency": "USD"
+          },
+          "sku": "SHPOMNLI0040",
+          "url": "https://lucafaloni.com}/shop/blue-melange-portofino-linen-shirt"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "S",
+        "XS",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "15",
+        "5",
+        "75",
+        "16"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "materials": [
+          "linen"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "47e5b2e34801f00b71919fd25373f313",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/classic-jeans",
+    "title": "Classic Jeans",
+    "section": "product",
+    "text": "Product: Classic Jeans | Prices: $300 | Available sizes: 30, 6, 2, 10, 1 | Colors: blue, black, white | Materials: cotton, denim | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:54.860162",
+    "meta": {
+      "product_data": {
+        "id": "47e5b2e34801f00b71919fd25373f313",
+        "url": "https://lucafaloni.com/en/us/shop/classic-jeans",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:54.860162",
+        "product_name": "Classic Jeans",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "30",
+          "6",
+          "2",
+          "10",
+          "1"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "blue",
+            "black",
+            "white"
+          ],
+          "materials": [
+            "cotton",
+            "denim"
+          ]
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "30",
+        "6",
+        "2",
+        "10",
+        "1"
+      ],
+      "attributes": {
+        "colors": [
+          "blue",
+          "black",
+          "white"
+        ],
+        "materials": [
+          "cotton",
+          "denim"
+        ]
+      },
+      "availability": "unknown"
+    }
+  },
+  {
+    "id": "466b420db20a145cf47a12ef2c1217d3",
+    "shop_id": "lucafaloni.com",
+    "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-zip-up",
+    "title": "Zip-up",
+    "section": "product",
+    "text": "Product: Zip-up | Prices: $300 | Available sizes: XS, S, M, L, XL, 30, 70, 18, 12, 4 | Colors: navy, green, black, brown | Materials: cashmere, cotton, silk | Availability: Unknown",
+    "lang": "en",
+    "ts_fetched": "2025-08-27T05:17:58.683113",
+    "meta": {
+      "product_data": {
+        "id": "466b420db20a145cf47a12ef2c1217d3",
+        "url": "https://lucafaloni.com/en/us/shop/black-silk-cashmere-zip-up",
+        "type": "product",
+        "extracted_at": "2025-08-27T05:17:58.683113",
+        "product_name": "Zip-up",
+        "prices": [
+          "$300"
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "30",
+          "70",
+          "18",
+          "12",
+          "4"
+        ],
+        "images": [],
+        "description": "",
+        "bullet_points": [],
+        "attributes": {
+          "colors": [
+            "navy",
+            "green",
+            "black",
+            "brown"
+          ],
+          "materials": [
+            "cashmere",
+            "cotton",
+            "silk"
+          ]
+        },
+        "structured_data": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "brand": {
+            "@type": "Brand",
+            "name": "Luca Faloni"
+          },
+          "category": [
+            "Jumpers"
+          ],
+          "color": "Black",
+          "description": "An elevated essential, our finest quarter zip is expertly crafted in Bergamo, Northern Italy from a luxurious blend of 70% cashmere and 30% silk. With a classic design, it’s adorned with a premium Lanfranchi zipper and features ribbing on the funnel collar, cuffs and hem for a fitted yet modern silhouette. \r\n\r\nWe are proud to source only the finest fibres to produce a superior silk-cashmere blend in the heart of Italy. This prestigious fabric is finer than our [b][u][url=\"/shop/cashmere\" title=\"pure cashmere knitwear\"]pure cashmere knitwear[/url][/u][/b], offering a lightweight, breathable and ultra-soft handle with a refined 18-gauge knit.\r\n\r\nWhether layered over our [b][u][url=\"/shop/cotton-shirts\" title=\"classic shirts\"]classic shirts[/url][/u][/b] for a sleek office ensemble or styled with [b][u][url=\"/shop/chinos\" title=\"chinos\"]chinos[/url][/u][/b] or [b][u][url=\"/shop/jeans\" title=\"jeans\"]jeans[/url][/u][/b] for an effortlessly refined weekend look, this piece unites sophistication and unparalleled comfort. Perfect for year-round wear, it offers versatility as a standalone staple over a [b][u][url=\"/shop/t-shirts\" title=\"T-shirt\"]T-shirt[/url][/u][/b] on cooler evenings or layers under a [b][u][url=\"/shop/blazers\" title=\"blazer\"]blazer[/url][/u][/b] through the colder season. ",
+          "image": [],
+          "inProductGroupWithID": "Silk-Cashmere Zip-ups",
+          "material": "Silk-Cashmere",
+          "name": "Zip-up",
+          "offers": {
+            "@type": "Offer",
+            "price": 475,
+            "priceCurrency": "USD"
+          },
+          "sku": "ZPUPMNSEWS0008",
+          "url": "https://lucafaloni.com}/shop/black-silk-cashmere-zip-up"
+        },
+        "availability": "unknown"
+      },
+      "prices": [
+        "$300"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "30",
+        "70",
+        "18",
+        "12",
+        "4"
+      ],
+      "attributes": {
+        "colors": [
+          "navy",
+          "green",
+          "black",
+          "brown"
+        ],
+        "materials": [
+          "cashmere",
+          "cotton",
+          "silk"
+        ]
+      },
+      "availability": "unknown"
+    }
+  }
+]

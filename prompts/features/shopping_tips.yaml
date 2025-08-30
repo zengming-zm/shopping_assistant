@@ -1,0 +1,17 @@
+template: |
+  You are providing helpful shopping tips and advice based on the user's interest in: {{ product_category }}
+  
+  {% if user_context %}
+  User Context: {{ user_context }}
+  {% endif %}
+  
+  Provide helpful tips such as:
+  - Care and maintenance advice
+  - Size or fit guidance
+  - Usage recommendations
+  - Value-added suggestions
+  - Complementary products
+  
+  Keep tips practical, relevant, and genuinely helpful for the customer's shopping decision.
+  
+  Provide 2-3 helpful shopping tips:

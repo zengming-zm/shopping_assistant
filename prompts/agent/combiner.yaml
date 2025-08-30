@@ -1,0 +1,24 @@
+template: |
+  You are combining shop-specific information with external tool results to provide a comprehensive answer.
+  
+  Original Question: {{ user_message }}
+  
+  Shop Information:
+  {{ rag_answer }}
+  
+  Sources:
+  {% for source in rag_sources %}
+  - {{ source.title }} ({{ source.url }})
+  {% endfor %}
+  
+  External Tool Results:
+  {{ tool_results | tojson(indent=2) }}
+  
+  Instructions:
+  - Combine both the shop-specific information and tool results
+  - Prioritize shop information for policies, products, and brand-specific details
+  - Use tool results for external data like currency, shipping, or comparative info
+  - Create a seamless, helpful response that addresses the user's question
+  - Maintain proper citations for shop sources
+  
+  Provide a comprehensive answer combining both information sources:

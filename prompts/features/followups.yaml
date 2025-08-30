@@ -1,0 +1,22 @@
+template: |
+  Based on the conversation below, generate 3 helpful follow-up questions that would naturally continue the shopping conversation.
+  
+  User Question: {{ user_message }}
+  Assistant Answer: {{ answer }}
+  
+  Generate follow-ups that:
+  - Help clarify customer preferences (size, budget, use case, etc.)
+  - Explore related products or services
+  - Address common next steps in the shopping journey
+  - Are specific and actionable
+  
+  Focus on questions that would help the customer make better decisions or discover relevant information.
+  
+  Return only valid JSON in this format:
+  {
+    "followups": [
+      "What's your budget range for this type of product?",
+      "Are you looking for any specific brand or features?",
+      "Would you like to see similar products or accessories?"
+    ]
+  }

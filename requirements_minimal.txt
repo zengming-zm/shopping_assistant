@@ -1,0 +1,21 @@
+# Minimal requirements for local testing
+fastapi
+streamlit
+uvicorn[standard]
+
+# LLM - choose one that works
+google-generativeai
+# anthropic
+# openai
+
+# Basic dependencies
+requests
+pydantic
+python-dotenv
+pyyaml
+httpx
+
+# Optional - comment out if installation fails
+# sentence-transformers
+# qdrant-client
+# playwright
