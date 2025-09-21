@@ -23,6 +23,7 @@ from product_crawler import EnhancedProductCrawler, run_product_crawler
 from multithreaded_product_crawler import run_multithreaded_product_crawler
 from comprehensive_crawler import run_comprehensive_crawler
 from google_search_rag import GoogleSearchRAG
+from chat import UniversalChatRAG
 
 load_dotenv()
 
@@ -495,6 +496,10 @@ def initialize_session_state():
         st.session_state.current_website = ""
     if "indexed_websites" not in st.session_state:
         st.session_state.indexed_websites = get_indexed_websites()
+    if "chat_provider" not in st.session_state:
+        st.session_state.chat_provider = "gemini"
+    if "chat_rag" not in st.session_state:
+        st.session_state.chat_rag = UniversalChatRAG()
 
 def get_indexed_websites() -> List[str]:
     """Get list of domains that have been used (for Google Search RAG)"""
@@ -509,9 +514,25 @@ def main():
     initialize_session_state()
     crawler = UniversalCrawler()
     search_rag = GoogleSearchRAG()
+    chat_rag = st.session_state.chat_rag
     
     # Sidebar
     st.sidebar.title("Website Management")
+    
+    # AI Provider Selection
+    available_providers = chat_rag.get_available_providers()
+    if available_providers:
+        st.sidebar.subheader("🤖 AI Provider")
+        current_provider = st.sidebar.selectbox(
+            "Choose AI Model:",
+            available_providers,
+            index=available_providers.index(chat_rag.default_provider) if chat_rag.default_provider in available_providers else 0,
+            format_func=lambda x: x.title()
+        )
+        chat_rag.set_provider(current_provider)
+        st.sidebar.info(f"Using: {current_provider.title()}")
+    else:
+        st.sidebar.error("⚠ No AI providers available! Please configure API keys.")
     
     # URL input
     website_url = st.sidebar.text_input(
@@ -531,13 +552,29 @@ def main():
         else:
             st.sidebar.info(f"🔍 Ready to search {domain} with Google!")
             
-            # Simple setup for Google Search
-            if st.sidebar.button("🚀 Start Chatting", type="primary"):
-                # Add domain to used list
-                if domain not in st.session_state.indexed_websites:
-                    st.session_state.indexed_websites.append(domain)
-                st.session_state.current_website = domain
-                st.rerun()
+            # Crawl mode selection
+            st.sidebar.subheader("🕷️ Crawling Mode")
+            crawl_mode = st.sidebar.selectbox(
+                "Choose crawling approach:",
+                [
+                    "🔍 Google Search Only",
+                    "🔍 Comprehensive (All Products)", 
+                    "🚀 Multi-threaded (Fast)", 
+                    "🏪 Standard Product Focus",
+                    "🕷️ General Content"
+                ],
+                index=0,
+                help="Google Search Only: No local crawling, uses Google Search for real-time info"
+            )
+            
+            # Handle Google Search Only mode
+            if crawl_mode == "🔍 Google Search Only":
+                if st.sidebar.button("🚀 Start Chatting", type="primary"):
+                    # Add domain to used list
+                    if domain not in st.session_state.indexed_websites:
+                        st.session_state.indexed_websites.append(domain)
+                    st.session_state.current_website = domain
+                    st.rerun()
             
             # Performance settings for product crawling modes
             if crawl_mode in ["🔍 Comprehensive (All Products)", "🚀 Multi-threaded (Fast)", "🏪 Standard Product Focus"]:
@@ -746,12 +783,12 @@ def main():
         st.sidebar.subheader("💭 Conversation")
         
         # Show conversation summary
-        conv_summary = search_rag.get_conversation_summary(st.session_state.current_website)
+        conv_summary = chat_rag.get_conversation_summary(st.session_state.current_website)
         if conv_summary['total_turns'] > 0:
             st.sidebar.info(f"🔄 {conv_summary['total_turns']} turns in conversation")
             
             if st.sidebar.button("🧹 Clear Conversation History"):
-                search_rag.clear_conversation(st.session_state.current_website)
+                st.session_state.chat_rag.clear_conversation(st.session_state.current_website)
                 # Also clear Streamlit session messages
                 if st.session_state.current_website in st.session_state.messages:
                     st.session_state.messages[st.session_state.current_website] = []
@@ -785,10 +822,18 @@ def main():
             # Generate and display assistant response
             with st.chat_message("assistant"):
                 with st.spinner("Analyzing context and searching..."):
-                    # Use Google Search RAG for multi-turn support
-                    conv_result = search_rag.generate_conversational_response(
+                    # Create search function for the chat system
+                    def search_function(domain, query, limit=3):
+                        evidence = search_rag.search_and_rerank_google(domain, query, max_results=limit)
+
+                        print(f"ming-debug: evidence: {evidence}")
+                        return evidence
+                    
+                    # Use Universal Chat RAG for multi-turn support
+                    conv_result = chat_rag.generate_conversational_response(
                         st.session_state.current_website, 
-                        prompt
+                        prompt,
+                        search_function=search_function
                     )
                     
                     response = conv_result['response']
@@ -800,6 +845,7 @@ def main():
                         
                         with col1:
                             st.write("**Query Processing:**")
+                            st.write(f"🤖 **AI Provider:** {conv_result['provider_used'].title()}")
                             if conv_result['rewritten_keyphrases'] != [prompt]:
                                 st.write(f"🔄 **Original:** {prompt}")
                                 st.write(f"🎯 **Key Phrases:** {', '.join(conv_result['rewritten_keyphrases'])}")
@@ -811,7 +857,10 @@ def main():
                             st.write("**Sources Found:**")
                             if conv_result['sources']:
                                 for i, source in enumerate(conv_result['sources'][:3], 1):
-                                    st.write(f"{i}. [{source['title']}]({source['url']}) (Score: {source['score']:.3f})")
+                                    title = source.get('title', 'Unknown')
+                                    url = source.get('url', '#')
+                                    score = source.get('score', 0)
+                                    st.write(f"{i}. [{title}]({url}) (Score: {score:.3f})")
                             else:
                                 st.write("No specific sources found")
                         
@@ -820,6 +869,8 @@ def main():
                             st.text_area("Previous context used:", conv_result['conversation_context_used'], height=100, disabled=True)
             
             current_messages.append({"role": "assistant", "content": response})
+
+        print(f"ming-debug: current_messages: {current_messages}")
     
     else:
         st.info("👆 Enter a website URL in the sidebar to get started!")

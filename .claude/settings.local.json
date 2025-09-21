@@ -11,7 +11,10 @@
       "Bash(playwright install:*)",
       "Bash(lsof:*)",
       "WebSearch",
-      "WebFetch(domain:qwenlm.github.io)"
+      "WebFetch(domain:qwenlm.github.io)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(rmdir:*)"
     ],
     "deny": [],
     "ask": []
