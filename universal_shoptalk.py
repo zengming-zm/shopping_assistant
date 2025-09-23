@@ -22,8 +22,8 @@ from dotenv import load_dotenv
 from product_crawler import EnhancedProductCrawler, run_product_crawler
 from multithreaded_product_crawler import run_multithreaded_product_crawler
 from comprehensive_crawler import run_comprehensive_crawler
-from google_search_rag import GoogleSearchRAG
-from chat import UniversalChatRAG
+# from google_search_rag import GoogleSearchRAG  # DEPRECATED: Using SearchTool instead
+from chat import UniversalChatRAG, SearchTool
 
 load_dotenv()
 
@@ -500,6 +500,12 @@ def initialize_session_state():
         st.session_state.chat_provider = "gemini"
     if "chat_rag" not in st.session_state:
         st.session_state.chat_rag = UniversalChatRAG()
+    
+    # Ensure persistent chat sessions are maintained across Streamlit reruns
+    # This is especially important for Gemini's chat sessions
+    if hasattr(st.session_state, 'chat_rag') and st.session_state.chat_rag:
+        # The chat_rag object persists in session state, maintaining Gemini chat sessions
+        pass
 
 def get_indexed_websites() -> List[str]:
     """Get list of domains that have been used (for Google Search RAG)"""
@@ -507,13 +513,87 @@ def get_indexed_websites() -> List[str]:
     # Return empty list initially, will populate as users chat with domains
     return []
 
+def create_google_search_function():
+    """
+    Create a Google Search function compatible with SearchTool
+    Returns a function that can be used by SearchTool for actual Google searches
+    """
+    # Check if Google Search API is configured
+    api_key = os.getenv('GOOGLE_SEARCH_API_KEY')
+    cse_id = os.getenv('GOOGLE_CSE_ID')
+    
+    if api_key and cse_id:
+        try:
+            from googleapiclient.discovery import build
+            service = build("customsearch", "v1", developerKey=api_key)
+            
+            def google_search_function(domain: str, query: str, limit: int = 3) -> List[Dict[str, Any]]:
+                """Google Search function compatible with SearchTool"""
+                try:
+                    # Execute Google Custom Search
+                    result = service.cse().list(
+                        q=f"{query} site:{domain}",  # Restrict search to domain
+                        cx=cse_id,
+                        num=min(limit, 10)  # Google CSE allows max 10 results per request
+                    ).execute()
+                    
+                    search_results = []
+                    if 'items' in result:
+                        for i, item in enumerate(result['items']):
+                            search_results.append({
+                                'title': item.get('title', ''),
+                                'snippet': item.get('snippet', ''),
+                                'url': item.get('link', ''),
+                                'source': 'google_search',
+                                'score': 1.0 - (i * 0.1)  # Decreasing score by relevance
+                            })
+                    
+                    print(f"ming-debug: Google Search API returned {len(search_results)} results for '{query}' on {domain}")
+                    return search_results
+                    
+                except Exception as e:
+                    print(f"Google Search API error: {e}")
+                    return [{
+                        'title': 'Google Search Error',
+                        'snippet': f'Unable to search Google for {query}',
+                        'url': '',
+                        'source': 'error',
+                        'score': 0.0
+                    }]
+            
+            return google_search_function
+            
+        except ImportError:
+            print("Google API client not installed. Install with: pip install google-api-python-client")
+        except Exception as e:
+            print(f"Failed to initialize Google Search: {e}")
+    
+    # Return mock search function if Google Search API is not configured
+    def mock_search_function(domain: str, query: str, limit: int = 3) -> List[Dict[str, Any]]:
+        """Mock search function for testing/demo purposes"""
+        mock_results = []
+        search_queries = [f"{query} {domain}", f"{domain} {query}", query]
+        
+        for i, search_query in enumerate(search_queries[:limit]):
+            mock_results.append({
+                'title': f'Search Results for {search_query}',
+                'snippet': f'Comprehensive information about {search_query} from {domain}. Product details, pricing, and availability.',
+                'url': f'https://{domain}/search?q={search_query.replace(" ", "+")}',
+                'source': 'mock_search',
+                'score': 0.9 - (i * 0.1)
+            })
+        
+        return mock_results
+    
+    return mock_search_function
+
 def main():
     st.title("🌐 Universal ShopTalk")
     st.subheader("Dynamic Website Crawler and Shopping Assistant")
     
     initialize_session_state()
     crawler = UniversalCrawler()
-    search_rag = GoogleSearchRAG()
+    # search_rag = GoogleSearchRAG()  # DEPRECATED: Using SearchTool instead
     chat_rag = st.session_state.chat_rag
     
     # Sidebar
@@ -522,7 +602,9 @@ def main():
     # AI Provider Selection
     available_providers = chat_rag.get_available_providers()
     if available_providers:
-        st.sidebar.subheader("🤖 AI Provider")
+        st.sidebar.subheader("🤖 AI Configuration")
+        
+        # Provider selection
         current_provider = st.sidebar.selectbox(
             "Choose AI Model:",
             available_providers,
@@ -530,7 +612,29 @@ def main():
             format_func=lambda x: x.title()
         )
         chat_rag.set_provider(current_provider)
-        st.sidebar.info(f"Using: {current_provider.title()}")
+        
+        # Response mode selection
+        response_mode = st.sidebar.selectbox(
+            "Response Mode:",
+            ["normal", "thinking_react"],
+            index=0 if chat_rag.get_response_mode() == "normal" else 1,
+            format_func=lambda x: {
+                "normal": "🎯 Normal",
+                "thinking_react": "🧠 Thinking + ReAct (Intelligent)"
+            }[x],
+            help="Choose how the AI processes and responds to queries"
+        )
+        chat_rag.set_response_mode(response_mode)
+        
+        st.sidebar.info(f"Using: {current_provider.title()} | Mode: {response_mode.title()}")
+        
+        # Add mode descriptions
+        mode_descriptions = {
+            "normal": "🎯 Standard AI responses with optional search",
+            "thinking_react": "🧠 Intelligent thinking + tool usage when needed"
+        }
+        st.sidebar.caption(f"ℹ️ {mode_descriptions[response_mode]}")
+        
     else:
         st.sidebar.error("⚠ No AI providers available! Please configure API keys.")
     
@@ -822,12 +926,8 @@ def main():
             # Generate and display assistant response
             with st.chat_message("assistant"):
                 with st.spinner("Analyzing context and searching..."):
-                    # Create search function for the chat system
-                    def search_function(domain, query, limit=3):
-                        evidence = search_rag.search_and_rerank_google(domain, query, max_results=limit)
-
-                        print(f"ming-debug: evidence: {evidence}")
-                        return evidence
+                    # Use the Google Search function (auto-detects if API is configured)
+                    search_function = create_google_search_function()
                     
                     # Use Universal Chat RAG for multi-turn support
                     conv_result = chat_rag.generate_conversational_response(
@@ -840,12 +940,13 @@ def main():
                     st.markdown(response)
                     
                     # Show conversation insights in an expander
-                    with st.expander("🧠 Conversation Analysis", expanded=False):
+                    with st.expander("🧠 AI Processing Analysis", expanded=False):
                         col1, col2 = st.columns(2)
                         
                         with col1:
                             st.write("**Query Processing:**")
                             st.write(f"🤖 **AI Provider:** {conv_result['provider_used'].title()}")
+                            st.write(f"🎯 **Response Mode:** {conv_result.get('response_mode', 'normal').title()}")
                             if conv_result['rewritten_keyphrases'] != [prompt]:
                                 st.write(f"🔄 **Original:** {prompt}")
                                 st.write(f"🎯 **Key Phrases:** {', '.join(conv_result['rewritten_keyphrases'])}")
@@ -864,13 +965,32 @@ def main():
                             else:
                                 st.write("No specific sources found")
                         
+                        # Show thinking process if available
+                        if conv_result.get('thinking_process'):
+                            st.write("**🤔 Thinking Process:**")
+                            st.text_area("AI's step-by-step reasoning:", conv_result['thinking_process'], height=150, disabled=True)
+                        
+                        # Show ReAct process if available
+                        if conv_result.get('react_turns'):
+                            st.write("**🔄 ReAct Process:**")
+                            st.write(f"Success: {'✅' if conv_result.get('react_success') else '❌'} | Turns: {conv_result.get('total_react_turns', 0)}")
+                            
+                            # Show ReAct turns in a collapsible section
+                            with st.expander("View ReAct Turns", expanded=False):
+                                for turn in conv_result['react_turns']:
+                                    st.write(f"**Turn {turn['turn']}:**")
+                                    st.text_area(f"Model Output {turn['turn']}:", turn['model_output'], height=100, disabled=True, key=f"react_turn_{turn['turn']}")
+                                    if 'observation' in turn:
+                                        st.write(f"🔍 **Observation:** {turn['observation']}")
+                                    if 'error' in turn:
+                                        st.write(f"❌ **Error:** {turn['error']}")
+                                    st.divider()
+                        
                         if conv_result['conversation_context_used']:
                             st.write("**Conversation Context:**")
                             st.text_area("Previous context used:", conv_result['conversation_context_used'], height=100, disabled=True)
             
             current_messages.append({"role": "assistant", "content": response})
-
-        print(f"ming-debug: current_messages: {current_messages}")
     
     else:
         st.info("👆 Enter a website URL in the sidebar to get started!")
